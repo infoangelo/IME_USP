@@ -6,7 +6,6 @@ Seu programa principal deverá receber do usuário um número inteiro n e imprim
 
 _Obs: Considere que os valores de b e k para n=0 serão b=1 e k=0._
 
-__Atenção:__ Esta é uma atividade para exercitar o conceito de funções, assim será necessário que implemente uma função que NÃO tenha comandos de entrada de dados nela (os dados tem que ser providenciados por quem a invoca). Aqui deve-se usar obrigatoriamente como nome para a função teste, sob pena de ter posteriormente diminuída sua nota na atividade.
-
 __Entrada esperada:__ _Um número inteiro n._
+
 __Saída esperada:__ _2 inteiros b e k separados por espaço simples, sendo que bk = n._ 

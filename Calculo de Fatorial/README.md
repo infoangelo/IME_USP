@@ -9,4 +9,5 @@ _Assim, por exemplo, o fatorial de 4 é computado da seguinte forma: fat(4) = 4*
 Dessa forma, é preciso convencionar o que fazer se o usuário digitar um número inteiro negativo, neste caso seu programa deverá imprimir -1.
 
 __Entrada esperada:__ _um valor inteiro (int n)._
+
 __Saída esperada:__ _se n<0, imprimir -1, se n>=0, imprimir um número natural correspondente a fat(n)._
